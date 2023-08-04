@@ -1,0 +1,10 @@
+version: "3"
+services:
+  cineclube-webapi:
+    container_name: cineclube-webapi
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    ports:
+      - 5000:80
+      - 443:443

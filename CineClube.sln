@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineClubeApp", "CineClubeApp\CineClubeApp.csproj", "{81EE5C86-96EE-4632-8B54-105FB9FCBC8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineClubeBusiness", "CineClubeBusiness\CineClubeBusiness.csproj", "{E5662D70-DFA6-411D-8B2C-CDEAABE2063F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineClubeData", "CineClubeData\CineClubeData.csproj", "{135817AC-A7CC-4FDF-90FE-523E184821BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81EE5C86-96EE-4632-8B54-105FB9FCBC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81EE5C86-96EE-4632-8B54-105FB9FCBC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81EE5C86-96EE-4632-8B54-105FB9FCBC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81EE5C86-96EE-4632-8B54-105FB9FCBC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5662D70-DFA6-411D-8B2C-CDEAABE2063F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5662D70-DFA6-411D-8B2C-CDEAABE2063F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5662D70-DFA6-411D-8B2C-CDEAABE2063F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5662D70-DFA6-411D-8B2C-CDEAABE2063F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135817AC-A7CC-4FDF-90FE-523E184821BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135817AC-A7CC-4FDF-90FE-523E184821BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135817AC-A7CC-4FDF-90FE-523E184821BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135817AC-A7CC-4FDF-90FE-523E184821BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
