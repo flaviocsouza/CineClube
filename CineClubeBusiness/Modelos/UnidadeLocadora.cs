@@ -7,6 +7,8 @@ namespace CineClubeBusiness.Modelos
         public TimeOnly ComecoExpediente { get; set; }
         public TimeOnly FimExpediente  { get; set; }
         public string CNPJ { get; set; }
+        public Guid EnderecoId { get; set; }
+
         public Endereco Endereco { get; set; }
     } 
     

@@ -8,7 +8,10 @@ namespace CineClubeBusiness.Modelos
         public int DuracaoEmMinutos { get; set; }
         public int AnoLancamento { get; set; }
 
+        public Guid CategoriaFilmeId { get; set; }
+
         public CategoriaFilme CategoriaFilme { get; set; }
+        public IEnumerable<FitaVhs> FitasVhs { get; set; }
     }
     
 }
