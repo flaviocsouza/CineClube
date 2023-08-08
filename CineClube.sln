@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineClubeBusiness", "CineCl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineClubeData", "CineClubeData\CineClubeData.csproj", "{135817AC-A7CC-4FDF-90FE-523E184821BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineClubeUnitTests", "CineClubeUnitTests\CineClubeUnitTests.csproj", "{B4F6E982-96D9-46DF-8E45-286847F3D935}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{135817AC-A7CC-4FDF-90FE-523E184821BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{135817AC-A7CC-4FDF-90FE-523E184821BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{135817AC-A7CC-4FDF-90FE-523E184821BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4F6E982-96D9-46DF-8E45-286847F3D935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F6E982-96D9-46DF-8E45-286847F3D935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F6E982-96D9-46DF-8E45-286847F3D935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F6E982-96D9-46DF-8E45-286847F3D935}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
